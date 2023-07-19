@@ -12,7 +12,7 @@ categories = [
     "Development",
     "golang",
 ]
-image = "stuck.jpg"
+video = "jfKfPfyJRdk"
 +++
 
 ## Step 1. Install Hugo
