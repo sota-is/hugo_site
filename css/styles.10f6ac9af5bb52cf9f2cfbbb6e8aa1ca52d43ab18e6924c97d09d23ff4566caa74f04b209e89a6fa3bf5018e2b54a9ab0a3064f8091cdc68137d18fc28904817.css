@@ -101,7 +101,7 @@ html[data-mode="dim"] .color_choice::after {
 }
 
 @font-face {
-  font-family: 'Cookie';
+  font-family: 'Metropolis';
   font-style: normal;
   font-display: swap;
   font-weight: 400;
@@ -673,7 +673,7 @@ aside h3 {
 }
 
 .nav-brand {
-  font-family: "Cookie";
+  font-family: "Metropolis";
   font-size: 2em !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;
