@@ -1,5 +1,5 @@
 baseurl = "https://sota.is/"  # Include trailing slash
-title = "SOTA"
+title = "SOTA > state-of-the-art"
 # this example loads the theme as hugo module
 # comment out line below, and uncomment the line after it if you prefer to load the theme normally
 # theme = ["https://github.com/sota-is/hugo_theme_newsroom/"] # edit this if you'ld rather use a fork of this repo
